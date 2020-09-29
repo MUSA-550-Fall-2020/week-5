@@ -24,6 +24,7 @@
 - [Census API Tutorial](https://www.census.gov/content/dam/Census/programs-surveys/acs/guidance/training-presentations/20180614_API.pdf)
 - [Variable Names for Census Fields](https://api.census.gov/data.html)
 - [`cenpy` Documentation](https://cenpy-devs.github.io/cenpy/)
+  - [Introductory guide](https://nbviewer.jupyter.org/github/ljwolf/cenpy/blob/master/notebooks/automatic-wrapper.ipynb?flush_cache=true)
 - [Census Geographic Identifiers](https://www.census.gov/geo/reference/geoidentifiers.html)
 - [NHGIS Tutorial](https://www.nhgis.org/sites/www.nhgis.org/files/using_the_nhgis_data_finder.pdf)
 - [Twitter Developer Docs](https://developer.twitter.com/en/docs/basics/getting-started)
